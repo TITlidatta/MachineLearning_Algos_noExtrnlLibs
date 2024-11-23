@@ -1,6 +1,7 @@
----This is a Machine learning initials covering project which includes topics like supervised and unsupervised learning
-----K means algorithm
-----PCA and kernal PCA
-----Beta and GNM distribution
-----linear and kernal regression
-----Decision tree and KNN
+---This is a Machine learning initials covering project which includes topics like supervised and unsupervised learning<br>
+----K means algorithm<br>
+----PCA and kernal PCA<br>
+----Beta and GNM distribution<br>
+----linear and kernal regression<br>
+----Decision tree and KNN<br>
+----Perceptron
